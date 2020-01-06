@@ -1,8 +1,10 @@
+Test GIT ajout d'une ligne 
+
 # Version CDAP :  Version 5.1.2
 
 
 #####################################
-# Info Conf MCO pour le namespoace 
+# Info Conf MCO pour le namespoGgace 
 #####################################
 
 hdfs.root.url	Namespace	hdfs://hdfs://PTF-cluster8020
